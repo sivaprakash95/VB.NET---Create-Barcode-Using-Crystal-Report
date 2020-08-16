@@ -209,9 +209,6 @@ End Sub
 
 
 
-
-
-
 Okay,
 Lets Go...
 
@@ -299,5 +296,6 @@ It printed
 Am set my default printer as Microsoft Print to PDF. So it save it as pdf document
 
 
-Thanks for watching this video 
-Just likes and subscribes to get more videos friend bye....
+Thanks for read this
+please subscribe this channel for more https://www.youtube.com/channel/UCZFe63C5xv8sCMmDWPW3aqw?sub_confirmation=1
+
